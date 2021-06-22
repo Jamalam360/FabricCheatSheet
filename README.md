@@ -19,6 +19,7 @@ Simply click on the below hyperlinks to be redirected to the markdown file you w
 ### Utility
 
 - [Creating and using a Logger](utility/Logging.md)
+- [Sending to the in-game chat](utility/Chat.md)
 
 ### Mixins
 
