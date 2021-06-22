@@ -1,4 +1,4 @@
-[Back to contents](../README.md))
+[Back to contents](../README.md)
 
 ## Creating a Custom Entity Group
 
@@ -22,5 +22,5 @@ public EntityGroup getGroup() {
 }
 ```
 
-Then to check if an `LivingEntity` instance is in a specific `EntityGroup`, do `livingEntityInstance.getGroup() == ModInit.CUSTOM_ENTITY_GROUP`
+Then to check if a `LivingEntity` instance is in a specific `EntityGroup`, do `livingEntityInstance.getGroup() == ModInit.CUSTOM_ENTITY_GROUP`
 
