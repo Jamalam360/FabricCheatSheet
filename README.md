@@ -1,5 +1,5 @@
 # Fabric Cheat Sheet
-Random snippets of code that I might use again in the future
+Random snippets of code that you might just find useful
 
 If you would like to contribute, open a PR. Make sure you read [the contribution guidelines](CONTRIBUTING.md) first.
 
