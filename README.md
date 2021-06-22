@@ -9,4 +9,4 @@ Simply click on the below hyperlinks to be redirected to the markdown file you w
 
 ### Entities
 - Miscellaneous
-    - [Striking an entity with lightning](entities/LightningStrike)
+    - [Striking an entity with lightning](entities/LightningStrike.md)
