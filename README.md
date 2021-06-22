@@ -9,6 +9,8 @@ If you would like to contribute, open a PR. Make sure you read [the contribution
 
 Simply click on the below hyperlinks to be redirected to the markdown file you want to read
 
+If you see an example method call with a # instead of a ., it means that the method is not static and should be performed on an instance of the class (e.g. LivingEntity#doSomethingNotStatic(...);)
+
 ## Contents
 
 ### Entities
