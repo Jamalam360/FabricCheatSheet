@@ -22,4 +22,4 @@ public EntityGroup getGroup() {
 }
 ```
 
-(Not finished)
+Then to check if an `LivingEntity` instance is in a specific `EntityGroup`, do `livingEntityInstance.getGroup() == ModInit.CUSTOM_ENTITY_GROUP`>
